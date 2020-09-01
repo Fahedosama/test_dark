@@ -25,7 +25,7 @@ import static android.text.Html.FROM_HTML_MODE_LEGACY;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
    // Button btn;
     TextView textView;
-    private static final String TAG = "MainActivity";
+    private static final String TAG = "MainActivity2";
     static Resources res;
     static boolean isDark = false;
 

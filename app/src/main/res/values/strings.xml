@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">test dark</string>
+    <string name="welcome_messages">Hello, %1$s! You have %2$d new messages.</string>
+    <string name="emal">Dear Mr./Mrs. %1$s &lt;b>(%2$s)&lt;/b>:  \n\n<br /><br /> Your order has been successfully submitted, <br /><br /> Best Regards, <br /><br /></string>
+    <plurals name="numberOfSongsAvailable">
+        <!--
+             As a developer, you should always supply "one" and "other"
+             strings. Your translators will know which strings are actually
+             needed for their language. Always include %d in "one" because
+             translators will need to use %d for languages where "one"
+             doesn't mean 1 (as explained above).
+          -->
+
+        <item quantity="one">%d song found1.</item>
+        <item quantity="other">%d songs found3.</item>
+    </plurals>
+</resources>
